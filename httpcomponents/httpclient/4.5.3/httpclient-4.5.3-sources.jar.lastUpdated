@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 30 13:32:50 EDT 2017
+http\://maven.repository.redhat.com/ga/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:sources\:4.5.3 from/to redhat-ga-repository (http\://maven.repository.redhat.com/ga/)\: connect timed out
+@default-eap-http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1501435970761
+@default-redhat-ga-repository-http\://maven.repository.redhat.com/ga/.lastUpdated=1501435970313
+http\://maven.repository.redhat.com/techpreview/all/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:sources\:4.5.3 from/to eap (http\://maven.repository.redhat.com/techpreview/all)\: connect timed out
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1501435960295
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:sources\:4.5.3 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

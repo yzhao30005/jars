@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 18 17:05:24 EDT 2017
+http\://maven.repository.redhat.com/ga/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1500411924442
+http\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1500411914858
+http\://maven.repository.redhat.com/techpreview/all/.error=
+http\://maven.repository.redhat.com/ga/.lastUpdated=1500411913908
